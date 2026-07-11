@@ -16,7 +16,7 @@ export const PERSONAL = {
 };
 
 export const SOCIALS = {
-  github: "https://github.com/YOUR_GITHUB_USERNAME",
+  github: "https://github.com/komalkumarikhatri2005-ship-it",
   linkedin: "https://www.linkedin.com/in/komal-kumari-0841893b6",
   instagram: "",
 };
